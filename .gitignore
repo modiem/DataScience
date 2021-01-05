@@ -3,3 +3,5 @@ streamlit
 __pycache__
 .ipynb_checkpoints
 *.csv
+data
+references
